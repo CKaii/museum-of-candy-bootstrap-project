@@ -1,1 +1,1 @@
-# museum-of-candy-bootstrap-project
+# Museum of Candy bootstrap project
